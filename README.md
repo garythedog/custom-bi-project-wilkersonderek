@@ -1,177 +1,61 @@
 # custom-bi-project-wilkersonderek
 Custom BI Project – Retail Product Attribute Analysis (CSIS 44632)
 
-📘 Custom BI Project – Retail Product Attribute Analysis (CSIS 44632)
+# Custom BI Project – Retail Product Attribute Analysis  
+**Author:** Derek Wilkerson  
+**Course:** CSIS 44632 – Business Intelligence & Analytics (NWMSU)  
+**Instructor:** Dr. Denise Case  
 
-Author: Derek Wilkerson
-Instructor: Dr. Denise Case
-Course: Business Intelligence & Analytics (NWMSU)
+This project is a **P7 Custom BI Project** that delivers an end-to-end Business Intelligence solution using a real retail product dataset.  
+It demonstrates how to clean and model data, create DAX measures, and design interactive **Power BI dashboards** that support real business decisions.
 
-📊 Project Overview
+---
 
-This project builds a complete end-to-end Business Intelligence solution using a real-world retail product dataset. The goal was to transform raw product attributes into meaningful insights through data cleaning, modeling, and interactive visual dashboards using Power BI.
+## 💡 What This Project Does
 
-The final deliverable includes:
+- Uses a real-world style **product catalog** with attributes such as material, product type, placement, section, season, promotion, and brand.  
+- Cleans and models the data into a structure that is ready for analysis in Power BI.  
+- Adds **calculated columns** (e.g., `Revenue`, `Product Type`) and **DAX measures** for KPIs.  
+- Builds a multi-page **Power BI report** with:
+  - Overview KPI dashboard  
+  - Product attribute analysis  
+  - Executive summary with insights & recommendations  
+- Shows how to use **slicers, tooltips, and visuals** to support business questions about:
+  - Which products drive the most revenue  
+  - How placement, material, and promotions affect performance  
+  - Where retailers should focus to grow sales
 
-Cleaned and modeled dataset
+---
 
-DAX measures for analysis
+## 🧰 Tech Stack
 
-Interactive Power BI dashboards
+- **Power BI Desktop** – Data model, DAX, and dashboards  
+- **Power Query** – Data cleaning and transformation  
+- **DAX** – Calculated columns and measures  
+- **CSV / Flat File** – Source dataset  
+- **Git & GitHub** – Version control and project sharing  
 
-Executive-level insights & recommendations
+---
 
-🧭 Business Goal
+## 🗂️ Repository Structure
 
-Identify high-value product categories and understand how product attributes—such as material, placement, and category—impact revenue and sales performance.
-
-This helps retail managers optimize:
-
-Product assortment
-
-In-store placement
-
-Material sourcing
-
-Marketing strategy
-
-Pricing and promotions
-
-🛠️ Tech Stack
-Component	Tools
-Data Cleaning	Power Query
-Data Modeling	Power BI
-Calculations	DAX
-Visualization	Power BI Desktop
-Version Control	Git + GitHub
-📁 Repository Structure
+```text
 custom-bi-project-wilkersonderek/
 │
-├── data/
-│   └── raw/
-│        └── Business_sales_EDA.csv
+├─ data/
+│   ├─ raw/
+│   │   └─ Business_sales_EDA.csv        # Original dataset
+│   └─ prepared/                         # (Optional) cleaned exports
 │
-├── custom-bi-project-wilkersonderek.pbix   ← final dashboard
-├── README.md
-└── LICENSE
-
-📐 Data Model Highlights
-
-Single fact table with key product attributes
-
-Cleaned data types (text, numeric, date)
-
-Added custom calculated columns:
-
-Revenue (price × sales volume)
-
-Product Type (based on keywords in “terms”)
-
-Created DAX measures:
-
-Total Revenue
-
-Total Sales Volume
-
-Distinct Products
-
-Average Price
-
-Average Revenue per Product
-
-High Volume Products
-
-📊 Dashboard Pages
-📌 Page 1 — Overview
-
-High-level KPIs:
-
-Total Revenue
-
-Total Sales Volume
-
-Distinct Products
-
-Average Revenue per Product
-
-Visuals include revenue and volume comparisons by product type.
-
-📌 Page 2 — Product Attribute Analysis
-
-Breakdown by:
-
-Material
-
-Product Type
-
-Product Position (Aisle, End-cap, Front of Store)
-
-Season
-
-Section (Men/Women)
-
-Includes interactive slicers:
-
-season, section, material, product position, brand
-
-Provides a heatmap-style revenue matrix and multiple bar charts.
-
-📌 Page 3 — Insights & Recommendations
-
-Executive summary page with:
-
-Three insight cards
-
-Supporting visuals
-
-Actionable recommendations
-
-Key Insights Identified:
-
-Jackets drive nearly half of all total revenue.
-
-Aisle placement produces the highest revenue lift.
-
-Material type dramatically impacts performance.
-
-Actionable strategies accompany each insight.
-
-💡 Key Findings
-
-Jackets are the highest-performing category ($487M revenue).
-
-Aisle positioning generates the most revenue across categories.
-
-Wool, Cotton, and Wool Blend materials outperform low-tier materials.
-
-T-Shirts and Shoes are reliable mid-tier performers.
-
-Promotional effects vary heavily by product type.
-
-🚀 Recommendations
-
-Expand jacket product offerings (colors, fits, premium materials).
-
-Increase Aisle placement for high-performing categories.
-
-Reduce sourcing of low-performing materials (Silk, Satin).
-
-Use targeted promotions rather than broad discounts.
-
-Develop predictive models using placement, material, and category.
-
-📈 Result
-
-This project demonstrates a complete BI workflow:
-
-Cleaning
-
-Modeling
-
-Visualization
-
-Insight generation
-
-Data storytelling
-
-The Power BI file in this repo contains the entire solution.
+├─ docs/                                 # Any notes or documentation
+├─ images/                               # README screenshots
+│   ├─ page1.png                         # Page 1 – Overview dashboard
+│   ├─ page2.png                         # Page 2 – Attribute analysis
+│   └─ page3.png                         # Page 3 – Insights summary
+│
+├─ powerbi/                              # (Optional) supporting files
+├─ Reports/                              # (Optional) exports
+│
+├─ custom-bi-project-wilkersonderek.pbix # Final Power BI report
+├─ LICENSE
+└─ README.md
