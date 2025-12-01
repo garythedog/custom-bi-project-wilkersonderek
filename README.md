@@ -309,3 +309,12 @@ Northwest Missouri State University
 Instructor: Dr. Denise Case
 
 Special thanks for guidance on data preparation, BI design principles, and best practices followed throughout the semester.
+
+📬 Contact
+
+If you have questions about this project or would like to discuss BI and analytics solutions:
+
+Derek Wilkerson
+📧 Email: dwilkerson2012@gmail.com
+
+🔗 GitHub: https://github.com/garythedog
