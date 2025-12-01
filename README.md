@@ -154,7 +154,7 @@ Season
 
 Brand
 
-Screenshot:C:\Repos\custom-bi-project-wilkersonderek\images\page2.png
+Screenshot:![alt text](images/page2.png)
 
 
 🔹 Page 3 – Insights & Recommendations
@@ -171,4 +171,4 @@ Promotion effectiveness
 
 Opportunities to shift assortment, pricing, or layout
 
-Screenshot: C:\Repos\custom-bi-project-wilkersonderek\images\page3.png
+Screenshot: ![alt text](images/page3.png)
