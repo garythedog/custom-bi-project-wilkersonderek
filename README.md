@@ -35,3 +35,21 @@ Builds interactive dashboards to surface trends
 
 Produces insights to guide merchandising and pricing decisions
 
+💼 Tech Stack
+
+This project uses a modern BI and analytics toolset designed for rapid data transformation, modeling, and dashboard creation:
+
+Power BI Desktop
+Used to build the data model, relationships, visuals, and interactive dashboards.
+
+Power Query (M Language)
+Performs data cleaning, shaping, and transformation before loading into the model.
+
+DAX (Data Analysis Expressions)
+Creates calculated columns, KPIs, time intelligence, and performance metrics.
+
+CSV / Flat Files
+The dataset is sourced from a CSV representing a retail product catalog.
+
+Git & GitHub
+Provides version control, collaboration, and publicly accessible project documentation.
