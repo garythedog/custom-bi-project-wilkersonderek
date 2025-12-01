@@ -172,3 +172,39 @@ Promotion effectiveness
 Opportunities to shift assortment, pricing, or layout
 
 Screenshot: ![alt text](images/page3.png)
+
+💡 Key Insights Developed
+
+Analysis of the dataset revealed several clear performance patterns across product types, materials, and placement:
+
+⭐ 1. Jackets generate the strongest overall performance
+
+Highest total revenue
+
+Highest total units sold
+
+Broad and consistent customer demand
+
+⭐ 2. Aisle placement delivers the largest revenue lift
+
+Products positioned in the Aisle consistently outperform End-cap and Front-of-Store placement
+
+Indicates customers prefer organized shelf browsing over impulse-driven displays
+
+⭐ 3. Material quality significantly impacts revenue
+
+Wool, Cotton, and Wool Blend materials perform the best
+
+Lower-performing materials such as Silk and Satin drive meaningfully less revenue
+
+⭐ 4. Seasonal patterns shape buying behavior
+
+Autumn and Winter products outperform Spring and Summer
+
+Cold-weather apparel and outerwear show the strongest seasonally driven sales lift
+
+⭐ 5. Promotions vary in effectiveness across categories
+
+Some product types benefit from promotional activity
+
+Others show minimal change → targeted promotions outperform blanket discounting
