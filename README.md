@@ -112,3 +112,63 @@ Season
 Section (Men/Women)
 
 Brand
+
+📊 Dashboard Pages
+
+The report contains three main pages, each focused on a different layer of insight.
+
+🔹 Page 1 – Overview Dashboard
+
+This page provides a high-level summary of overall performance so a manager can quickly see how the business is doing.
+
+Key elements include:
+
+Total revenue
+
+Total units sold
+
+Number of distinct products
+
+Average revenue per product
+
+Revenue and units sold by product type
+
+Screenshot: ![alt text](images/page1.png)
+
+
+🔹 Page 2 – Product Attribute Analysis
+
+This page digs deeper into how key product attributes influence performance.
+
+You can analyze results by:
+
+Material (for example Cotton, Wool, Linen, Polyester)
+
+Product type (Jackets, Shoes, T-shirts, Jeans, etc.)
+
+Product position (Aisle, End-cap, Front of Store)
+
+Section (Men vs Women)
+
+Season
+
+Brand
+
+Screenshot:C:\Repos\custom-bi-project-wilkersonderek\images\page2.png
+
+
+🔹 Page 3 – Insights & Recommendations
+
+This page summarizes the most important findings and highlights where the retailer should focus attention.
+
+It brings together:
+
+Top performing product types and materials
+
+Placement strategies that generate the most revenue
+
+Promotion effectiveness
+
+Opportunities to shift assortment, pricing, or layout
+
+Screenshot: C:\Repos\custom-bi-project-wilkersonderek\images\page3.png
