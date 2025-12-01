@@ -7,9 +7,6 @@ Instructor: Dr. Denise Case
 This repository contains a P7 Custom BI Project that delivers an end-to-end Business Intelligence solution using a retail product dataset.
 The goal is to model product-level attributes in Power BI and build dashboards that support real merchandising and pricing decisions.
 
-STEP 2 — Add the next section: “What This Project Does”
-
-Below is the exact text to paste UNDER the intro section (after the last line you already have):
 
 🧠 What This Project Does
 
