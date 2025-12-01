@@ -53,3 +53,29 @@ The dataset is sourced from a CSV representing a retail product catalog.
 
 Git & GitHub
 Provides version control, collaboration, and publicly accessible project documentation.
+
+📁 Repository Structure
+
+The repository is organized into clear folders to support data, documentation, images, and the final Power BI report:
+
+custom-bi-project-wilkersonderek/
+│
+├─ data/
+│ ├─ raw/
+│ │ └─ Business_sales_EDA.csv
+│ └─ prepared/
+│
+├─ docs/
+│
+├─ images/
+│ ├─ page1.png
+│ ├─ page2.png
+│ └─ page3.png
+│
+├─ powerbi/
+│
+├─ reports/
+│
+├─ custom-bi-project-wilkersonderek.pbix
+├─ LICENSE
+└─ README.md
