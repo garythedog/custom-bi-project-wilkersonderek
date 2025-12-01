@@ -300,3 +300,12 @@ Identify emerging trends
 Make faster, more confident strategic decisions
 
 Overall, this project shows how Power BI can quickly turn fragmented product data into practical, actionable insights that support improved merchandising and financial performance.
+📎 Acknowledgments
+
+This project was completed as part of:
+
+CSIS 44632 – Business Intelligence & Analytics
+Northwest Missouri State University
+Instructor: Dr. Denise Case
+
+Special thanks for guidance on data preparation, BI design principles, and best practices followed throughout the semester.
