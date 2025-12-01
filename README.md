@@ -208,3 +208,67 @@ Cold-weather apparel and outerwear show the strongest seasonally driven sales li
 Some product types benefit from promotional activity
 
 Others show minimal change → targeted promotions outperform blanket discounting
+
+🧭 Actionable Recommendations
+
+Based on the insights from the data and dashboards, the following recommendations can help improve merchandising, inventory, and pricing strategy:
+
+📌 1. Expand Jacket Offerings
+
+Jackets consistently deliver high revenue and strong unit sales.
+
+Recommended actions:
+
+Increase depth of inventory in top-selling styles
+
+Introduce seasonal variations (new colors, materials, fits)
+
+Maintain premium pricing — avoid discounting high performers
+
+📌 2. Prioritize Aisle Placement for High-Performing Products
+
+Aisle placement produces the highest revenue lift across categories.
+
+Recommended actions:
+
+Place top performers (Jackets, Sweaters) in high-visibility aisle fixtures
+
+Use End-caps selectively for promotions and seasonal campaigns
+
+Reserve premium placement for categories with proven revenue impact
+
+📌 3. Optimize Material Mix Toward High-Performing Fabrics
+
+Material strongly correlates with revenue outcomes.
+
+Recommended actions:
+
+Increase sourcing of Wool, Cotton, and Wool Blend products
+
+Reduce reliance on lower-performing materials such as Silk and Satin
+
+Align pricing strategy with perceived material quality
+
+📌 4. Use Targeted, Data-Driven Promotions
+
+Not all categories benefit equally from promotions.
+
+Recommended actions:
+
+Focus promotions on mid-performing categories (Shoes, T-shirts)
+
+Avoid unnecessary discounts on already strong performers
+
+Test seasonal or category-specific promotions
+
+📌 5. Develop Predictive Models for Future Decision-Making
+
+Product attributes in the dataset can help forecast demand.
+
+Future analytical opportunities:
+
+Predict inventory needs using material, product type, and placement
+
+Identify emerging product trends before peak season
+
+Improve pricing and markdown optimization based on forecasted demand
