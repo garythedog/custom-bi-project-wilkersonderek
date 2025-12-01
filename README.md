@@ -79,3 +79,36 @@ custom-bi-project-wilkersonderek/
 ├─ custom-bi-project-wilkersonderek.pbix
 ├─ LICENSE
 └─ README.md
+
+🧭 How to Open & Explore the Report
+
+Follow these steps to view and interact with the dashboards:
+
+Make sure you have Power BI Desktop installed.
+
+Clone or download this repository to your local machine.
+
+Open the file:
+custom-bi-project-wilkersonderek.pbix
+
+When the report opens in Power BI Desktop, use the page tabs at the bottom to switch between:
+
+Overview
+
+Product Attribute Analysis
+
+Insights & Recommendations
+
+Use slicers (filters) on the pages to explore performance by:
+
+Product type
+
+Material
+
+Placement (Aisle, End-cap, Front of Store)
+
+Season
+
+Section (Men/Women)
+
+Brand
